@@ -1,0 +1,3 @@
+# SegelTerminal
+
+Font ProggyCleanTTSZ NFM
